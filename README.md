@@ -22,3 +22,6 @@ NOTE: C compiled code takes argument from bash
 only if `grep` is used. it won't work if `awk` 
 is used
 also don't use more than one `|`
+
+also google sends binery data in html
+so i only collected the response header
